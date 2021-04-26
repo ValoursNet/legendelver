@@ -1,0 +1,134 @@
+[
+    {
+        "name": "Battle Plan",
+        "description": "Draw 3 cards",
+        "copies": 3,
+        "defense": "",
+        "attack": "",
+        "healing": "",
+        "draw": 3,
+        "repeat": "",
+        "image": "battle-plan"
+    },
+    {
+        "name": "Blood Helmet",
+        "description": "Gain 1 shield and draw 1 card",
+        "copies": 2,
+        "defense": 1,
+        "attack": "",
+        "healing": "",
+        "draw": 1,
+        "repeat": "",
+        "image": "blood-helmet"
+    },
+    {
+        "name": "Falchion",
+        "description": "Deal 3 damage",
+        "copies": 4,
+        "defense": "",
+        "attack": 3,
+        "healing": "",
+        "draw": "",
+        "repeat": "",
+        "image": "falchion"
+    },
+    {
+        "name": "Throwing Knife",
+        "description": "Deal 1 damage, gain 1 action",
+        "copies": 3,
+        "defense": "",
+        "attack": 1,
+        "healing": "",
+        "draw": "",
+        "repeat": 1,
+        "image": "knife"
+    },
+    {
+        "name": "Buckler",
+        "description": "Gain 2 shield",
+        "copies": 1,
+        "defense": 2,
+        "attack": "",
+        "healing": "",
+        "draw": "",
+        "repeat": "",
+        "image": "buckler"
+    },
+    {
+        "name": "Ring of Healing",
+        "description": "Heal 1hp and gain one extra action",
+        "copies": 2,
+        "defense": "",
+        "attack": "",
+        "healing": 1,
+        "draw": "",
+        "repeat": 1,
+        "image": "ring-of-healing"
+    },
+    {
+        "name": "Spiked Club",
+        "description": "Deal 2 damage",
+        "copies": 3,
+        "defense": "",
+        "attack": 2,
+        "healing": "",
+        "draw": "",
+        "repeat": "",
+        "image": "spiked-club"
+    },
+    {
+        "name": "Potion of haste",
+        "description": "Gain two actions",
+        "copies": 3,
+        "defense": "",
+        "attack": "",
+        "healing": "",
+        "draw": "",
+        "repeat": 2,
+        "image": "haste-potion"
+    },
+    {
+        "name": "Heater Shield",
+        "description": "Gain 3 shield",
+        "copies": 1,
+        "defense": 3,
+        "attack": "",
+        "healing": "",
+        "draw": "",
+        "repeat": "",
+        "image": "heater-shield"
+    },
+    {
+        "name": "Great Shield",
+        "description": "Gain 5 defence",
+        "copies": 2,
+        "defense": 5,
+        "attack": "",
+        "healing": "",
+        "draw": "",
+        "repeat": "",
+        "image": "great-shield"
+    },
+    {
+        "name": "Maul",
+        "description": "Deal 5 damage",
+        "copies": 2,
+        "defense": "",
+        "attack": 5,
+        "healing": "",
+        "draw": "",
+        "repeat": "",
+        "image": "maul"
+    },
+    {
+        "name": "Healing Draft",
+        "description": "Heal for 2",
+        "copies": 2,
+        "defense": "",
+        "attack": "",
+        "healing": 2,
+        "draw": "",
+        "repeat": "",
+        "image": "potion"
+    }
+]

@@ -1,0 +1,34 @@
+[
+    {
+        "name": "Eaglebow",
+        "opponent": 2,
+        "opponentName": "Great Eagle",
+        "character": 36,
+        "characterName": "Archer",
+        "minDepth": 100000
+    },
+    {
+        "name": "Whelm",
+        "opponent": 35,
+        "opponentName": "Water Elemental",
+        "character": 30,
+        "characterName": "Dwarven Cleric",
+        "minDepth": 90
+    },
+    {
+        "name": "Ogrebane",
+        "opponent": 78,
+        "opponentName": "Ogre Mage",
+        "character": 48,
+        "characterName": "???",
+        "minDepth": 100
+    },
+    {
+        "name": "Troll-be-gone",
+        "opponent": 108,
+        "opponentName": "Troll",
+        "character": 64,
+        "characterName": "Gambler",
+        "minDepth": 95
+    }
+]
